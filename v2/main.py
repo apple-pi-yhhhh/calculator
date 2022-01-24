@@ -11,7 +11,6 @@ while True:
             app_name = '電卓',
             app_icon='./icon.ico'
         )
-        break
     elif event == sg.WIN_CLOSED:
         break
 window.close()
